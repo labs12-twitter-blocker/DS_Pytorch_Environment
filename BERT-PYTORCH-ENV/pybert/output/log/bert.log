@@ -1,0 +1,87 @@
+[2019-04-15 23:31:16]: bert train_bert_multi_label.py[line:26] INFO  seed is 2018
+[2019-04-15 23:31:16]: bert train_bert_multi_label.py[line:29] INFO  starting load data from disk
+[2019-04-15 23:31:23]: bert data_transformer.py[line:83] INFO  train val split
+[2019-04-15 23:31:25]: bert train_bert_multi_label.py[line:75] INFO  initializing model
+[2019-04-15 23:31:28]: bert train_bert_multi_label.py[line:98] INFO  initializing callbacks
+[2019-04-15 23:31:28]: bert train_bert_multi_label.py[line:116] INFO  training model....
+[2019-04-15 23:31:28]: bert utils.py[line:27] WARNING  Warning: The number of GPU's configured to use is [1, 0], but only 1 are available on this machine.
+[2019-04-15 23:34:54]: bert train_bert_multi_label.py[line:26] INFO  seed is 2018
+[2019-04-15 23:34:54]: bert train_bert_multi_label.py[line:29] INFO  starting load data from disk
+[2019-04-15 23:35:03]: bert data_transformer.py[line:83] INFO  train val split
+[2019-04-15 23:35:05]: bert train_bert_multi_label.py[line:75] INFO  initializing model
+[2019-04-15 23:35:11]: bert train_bert_multi_label.py[line:98] INFO  initializing callbacks
+[2019-04-15 23:35:11]: bert train_bert_multi_label.py[line:116] INFO  training model....
+[2019-04-15 23:35:11]: bert utils.py[line:27] WARNING  Warning: The number of GPU's configured to use is [1, 0], but only 1 are available on this machine.
+[2019-04-15 23:36:02]: bert train_bert_multi_label.py[line:26] INFO  seed is 2018
+[2019-04-15 23:36:02]: bert train_bert_multi_label.py[line:29] INFO  starting load data from disk
+[2019-04-15 23:36:09]: bert data_transformer.py[line:83] INFO  train val split
+[2019-04-15 23:36:11]: bert train_bert_multi_label.py[line:75] INFO  initializing model
+[2019-04-15 23:36:14]: bert train_bert_multi_label.py[line:98] INFO  initializing callbacks
+[2019-04-15 23:36:14]: bert train_bert_multi_label.py[line:116] INFO  training model....
+[2019-04-15 23:36:14]: bert utils.py[line:27] WARNING  Warning: The number of GPU's configured to use is [1, 0], but only 1 are available on this machine.
+[2019-04-15 23:42:49]: bert train_bert_multi_label.py[line:26] INFO  seed is 2018
+[2019-04-15 23:42:49]: bert train_bert_multi_label.py[line:29] INFO  starting load data from disk
+[2019-04-15 23:42:56]: bert data_transformer.py[line:83] INFO  train val split
+[2019-04-15 23:42:59]: bert train_bert_multi_label.py[line:75] INFO  initializing model
+[2019-04-15 23:43:01]: bert train_bert_multi_label.py[line:98] INFO  initializing callbacks
+[2019-04-15 23:43:01]: bert train_bert_multi_label.py[line:116] INFO  training model....
+[2019-04-15 23:43:01]: bert utils.py[line:27] WARNING  Warning: The number of GPU's configured to use is [1, 0], but only 1 are available on this machine.
+[2019-04-16 01:23:42]: bert trainer.py[line:177] INFO  
+Epoch: 1 -  loss: 0.0678 - f1: 0.6880 - valid_loss: 0.0404 - valid_f1: 0.7745 
+[2019-04-16 01:23:42]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 1: valid_loss improved from inf to 0.04036
+[2019-04-16 02:57:24]: bert trainer.py[line:177] INFO  
+Epoch: 2 -  loss: 0.0300 - f1: 0.8277 - valid_loss: 0.0372 - valid_f1: 0.8012 
+[2019-04-16 02:57:24]: bert modelcheckpoint.py[line:48] INFO  
+Epoch 2: valid_loss improved from 0.04036 to 0.03719
+[2019-04-16 11:29:40]: bert inference.py[line:20] INFO  seed is 2018
+[2019-04-16 11:29:40]: bert inference.py[line:23] INFO  starting load data from disk
+[2019-04-16 11:29:48]: bert inference.py[line:49] INFO  initializing model
+[2019-04-16 11:29:51]: bert inference.py[line:54] INFO  model predicting....
+[2019-04-16 11:29:51]: bert utils.py[line:27] WARNING  Warning: The number of GPU's configured to use is [1, 0], but only 1 are available on this machine.
+[2019-04-16 12:17:46]: bert inference.py[line:20] INFO  seed is 2018
+[2019-04-16 12:17:46]: bert inference.py[line:23] INFO  starting load data from disk
+[2019-04-16 12:26:38]: bert inference.py[line:20] INFO  seed is 2018
+[2019-04-16 12:26:38]: bert inference.py[line:23] INFO  starting load data from disk
+[2019-04-16 12:28:09]: bert inference.py[line:20] INFO  seed is 2018
+[2019-04-16 12:28:09]: bert inference.py[line:23] INFO  starting load data from disk
+[2019-04-16 12:31:10]: bert inference.py[line:20] INFO  seed is 2018
+[2019-04-16 12:31:10]: bert inference.py[line:23] INFO  starting load data from disk
+[2019-04-16 12:31:18]: bert inference.py[line:49] INFO  initializing model
+[2019-04-16 12:31:21]: bert inference.py[line:54] INFO  model predicting....
+[2019-04-16 13:02:51]: bert inference.py[line:20] INFO  seed is 2018
+[2019-04-16 13:02:51]: bert inference.py[line:23] INFO  starting load data from disk
+[2019-04-16 13:02:59]: bert inference.py[line:49] INFO  initializing model
+[2019-04-16 13:03:02]: bert inference.py[line:54] INFO  model predicting....
+[2019-04-16 13:35:43]: bert inference.py[line:20] INFO  seed is 2018
+[2019-04-16 13:35:43]: bert inference.py[line:23] INFO  starting load data from disk
+[2019-04-16 13:35:43]: bert inference.py[line:49] INFO  initializing model
+[2019-04-16 13:35:45]: bert inference.py[line:54] INFO  model predicting....
+[2019-04-16 13:37:33]: bert inference.py[line:22] INFO  seed is 2018
+[2019-04-16 13:37:33]: bert inference.py[line:25] INFO  starting load data from disk
+[2019-04-16 13:37:33]: bert inference.py[line:51] INFO  initializing model
+[2019-04-16 13:37:35]: bert inference.py[line:56] INFO  model predicting....
+[2019-04-16 13:37:54]: bert inference.py[line:22] INFO  seed is 2018
+[2019-04-16 13:37:54]: bert inference.py[line:25] INFO  starting load data from disk
+[2019-04-16 13:37:54]: bert inference.py[line:51] INFO  initializing model
+[2019-04-16 13:37:57]: bert inference.py[line:56] INFO  model predicting....
+[2019-04-16 13:43:23]: bert inference.py[line:22] INFO  seed is 2018
+[2019-04-16 13:43:23]: bert inference.py[line:25] INFO  starting load data from disk
+[2019-04-16 13:43:23]: bert inference.py[line:51] INFO  initializing model
+[2019-04-16 13:43:25]: bert inference.py[line:56] INFO  model predicting....
+[2019-04-16 13:44:31]: bert inference.py[line:22] INFO  seed is 2018
+[2019-04-16 13:44:31]: bert inference.py[line:25] INFO  starting load data from disk
+[2019-04-16 13:44:31]: bert inference.py[line:51] INFO  initializing model
+[2019-04-16 13:44:34]: bert inference.py[line:56] INFO  model predicting....
+[2019-04-16 13:46:42]: bert inference.py[line:22] INFO  seed is 2018
+[2019-04-16 13:46:42]: bert inference.py[line:25] INFO  starting load data from disk
+[2019-04-16 13:46:42]: bert inference.py[line:51] INFO  initializing model
+[2019-04-16 13:46:45]: bert inference.py[line:56] INFO  model predicting....
+[2019-04-16 13:47:08]: bert inference.py[line:22] INFO  seed is 2018
+[2019-04-16 13:47:08]: bert inference.py[line:25] INFO  starting load data from disk
+[2019-04-16 13:47:08]: bert inference.py[line:51] INFO  initializing model
+[2019-04-16 13:47:10]: bert inference.py[line:56] INFO  model predicting....
+[2019-04-16 14:08:20]: bert inference.py[line:22] INFO  seed is 2018
+[2019-04-16 14:08:20]: bert inference.py[line:25] INFO  starting load data from disk
+[2019-04-16 14:08:28]: bert inference.py[line:51] INFO  initializing model
+[2019-04-16 14:08:31]: bert inference.py[line:56] INFO  model predicting....
